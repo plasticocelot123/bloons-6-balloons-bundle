@@ -1,0 +1,9 @@
+{
+  "Class": "Default",
+  "Image": "MainMenuUiAtlas[PrimaryBtn]",
+  "About": "The Default Class, this class has nothing special",
+  "Desc": "Pros\n- None\nCons\n- None",
+  "DescSize": 90,
+  "Width": 250,
+  "Height": 250
+}
